@@ -10,6 +10,10 @@ Here is my collection of all the writeups I wrote in ONE big repository!
  | 2. | [TFC CTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/TFC%20CTF%202022) | 300 | 488 | 
  | 3. | [UIUCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UIUCTF%202022) | 451 | 111 | 
  | 4. | [UACTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UACTF%202022) | 205 | 163 | 
+ | 5. | [corCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/corCTF%202022) | 333 | 222 | 
+ | 4. | [UACTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UACTF%202022) | 205 | 163 | 
+ | 4. | [UACTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UACTF%202022) | 205 | 163 | 
+ | 4. | [UACTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UACTF%202022) | 205 | 163 | 
 
 </center>
 
