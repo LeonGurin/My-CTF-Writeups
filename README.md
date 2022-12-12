@@ -12,7 +12,7 @@ Here is my collection of all the writeups I wrote in ONE big repository!
  | 4. | [UACTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UACTF%202022) | 205 | 163 | 
  | 5. | [corCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/corCTF%202022) | 333 | 222 | 
  | 6. | [T3N4CIOUS-Escape-2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/T3N4CIOUS%20-%20Escape) | 2800 | 47 | 
- | 4. | [UACTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UACTF%202022) | 205 | 163 | 
+ | 7. | [SHELL CTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/SHELL%20CTF%202022) | 1755 | 230 | 
  | 4. | [UACTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UACTF%202022) | 205 | 163 | 
 
 </center>
