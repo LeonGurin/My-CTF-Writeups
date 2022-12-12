@@ -16,7 +16,7 @@ Here is my collection of all the writeups I wrote in ONE big repository!
  | 8. | [Inter-Galactic-CTF](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Inter-Galactic%20CTF) | 1595 | null | 
  | 9. | [CSAW CTF Qualification Round 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/CSAW%20CTF%20Qualification%20Round%202022) | 371 | 243 | 
  | 10. | [BuckeyeCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/BuckeyeCTF%202022) | 212 | 307 | 
- | 10. | [BuckeyeCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/BuckeyeCTF%202022) | 212 | 307 | 
+ | 11. | [SquareCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/SquareCTF%202022) | 201 | 183 | 
  | 10. | [BuckeyeCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/BuckeyeCTF%202022) | 212 | 307 | 
 
 
