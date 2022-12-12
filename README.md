@@ -17,8 +17,7 @@ Here is my collection of all the writeups I wrote in ONE big repository!
  | 9. | [CSAW CTF Qualification Round 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/CSAW%20CTF%20Qualification%20Round%202022) | 371 | 243 | 
  | 10. | [BuckeyeCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/BuckeyeCTF%202022) | 212 | 307 | 
  | 11. | [SquareCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/SquareCTF%202022) | 201 | 183 | 
- | 10. | [BuckeyeCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/BuckeyeCTF%202022) | 212 | 307 | 
-
+ | 12. | [Hackappatoi](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Hackappatoi) | 1596 | 35 | 
 
 </center>
 
