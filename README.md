@@ -18,6 +18,7 @@ Here is my collection of all the writeups I wrote in ONE big repository!
  | 10. | [BuckeyeCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/BuckeyeCTF%202022) | 212 | 307 | 
  | 11. | [SquareCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/SquareCTF%202022) | 201 | 183 | 
  | 12. | [Hackappatoi](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Hackappatoi) | 1596 | 35 | 
+ | 13. | [LA CTF 2023](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/LA%20CTF%202023) | 2003 | 326 
 
 </center>
 
