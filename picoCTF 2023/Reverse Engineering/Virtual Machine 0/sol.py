@@ -1,0 +1,6 @@
+from Crypto.Util.number import long_to_bytes
+
+n = 39722847074734820757600524178581224432297292490103995908738058203639164185
+q = n*5
+p = long_to_bytes(q)
+print(p)
