@@ -20,7 +20,7 @@ Here is my collection of all the writeups I wrote in ONE big repository!
  | 12. | [Hackappatoi](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Hackappatoi) | 1596 | 35 | 
  | 13. | [LA CTF 2023](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/LA%20CTF%202023) | 2003 | 326 
  | 14. | [Incognito 4.0](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Incognito%204.0) | 1774 | 161
- | 15. | [picoCTF 2023](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/picoCTF-2023) | 4900 | 398 (global) 113 (undergrad)
+ | 15. | [picoCTF 2023](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/picoCTF%202023) | 4900 | 398 (global) 113 (undergrad)
 
 </center>
 
