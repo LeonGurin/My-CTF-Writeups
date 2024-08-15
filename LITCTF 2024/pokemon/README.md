@@ -5,7 +5,7 @@
 
 I love pokemon! Win to get the flag
 
-*Given: [Pokemon.zip]()*
+*Given: [pokemon.zip](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/LITCTF%202024/pokemon/pokemon.zip)*
 
 ___
 

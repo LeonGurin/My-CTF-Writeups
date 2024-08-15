@@ -6,7 +6,7 @@
 
 Welcome to Kirby's Website.
 
-*Given: kirbytime.zip*
+*Given: [kirbytime.zip](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/LITCTF%202024/kirbytime/kirbytime.zip)*
 
 ___
 
